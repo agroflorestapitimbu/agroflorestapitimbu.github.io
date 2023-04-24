@@ -3,10 +3,33 @@
     <title>Agrofloresta Comunitária Pitimbu</title>
     <link href="https://agroflorestapitimbu.github.io/feed.xml" rel="self" />
     <link href="https://agroflorestapitimbu.github.io" />
-    <updated>1969-12-31T21:00:00-03:00</updated>
+    <updated>2023-04-24T18:12:14-03:00</updated>
     <author>
         <name>Coletivo Agrofloresta Comunitária Pitimbu</name>
     </author>
     <id>https://agroflorestapitimbu.github.io</id>
 
+    <entry>
+        <title>Mutirão do dia 21 de Abril de 2024</title>
+        <author>
+            <name>Coletivo Agrofloresta Comunitária Pitimbu</name>
+        </author>
+        <link href="https://agroflorestapitimbu.github.io/mutirao-do-dia-21-de-abril-de-2024.html"/>
+        <id>https://agroflorestapitimbu.github.io/mutirao-do-dia-21-de-abril-de-2024.html</id>
+        <media:content url="https://agroflorestapitimbu.github.io/media/posts/1/agrofloresta-abril-3.jpeg" medium="image" />
+
+        <updated>2023-04-24T18:12:14-03:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://agroflorestapitimbu.github.io/media/posts/1/agrofloresta-abril-3.jpeg" alt="Área 2 da agrofloresta com 7 linhas de árvores" />
+                    Mais um mutirão realizado com sucesso na Agrofloresta
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://agroflorestapitimbu.github.io/media/posts/1/agrofloresta-abril-3.jpeg" class="type:primaryImage" alt="Área 2 da agrofloresta com 7 linhas de árvores" /></p>
+                <p>Mais um mutirão realizado com sucesso na Agrofloresta</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
