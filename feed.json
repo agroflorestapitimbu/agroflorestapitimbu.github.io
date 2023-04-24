@@ -1,0 +1,14 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Agrofloresta Comunitária Pitimbu",
+    "description": "",
+    "home_page_url": "https://agroflorestapitimbu.github.io",
+    "feed_url": "https://agroflorestapitimbu.github.io/feed.json",
+    "user_comment": "",
+    "icon": "https://agroflorestapitimbu.github.io/media/website/agrofloresta-abril-3-2.jpeg",
+    "author": {
+        "name": "Coletivo Agrofloresta Comunitária Pitimbu"
+    },
+    "items": [
+    ]
+}
